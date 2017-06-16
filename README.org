@@ -3,7 +3,7 @@ Quick search&input email from [[https://www.emacswiki.org/emacs/CategoryBbdb][BB
 
 Features:
 - Quick
-- Smart, know some ethic groups display family name before given name
+- Smart, know some ethnic groups display family name before given name
 - Robust, only dependency is [[https://github.com/abo-abo/swiper][ivy-mode]]
 
 * Install
